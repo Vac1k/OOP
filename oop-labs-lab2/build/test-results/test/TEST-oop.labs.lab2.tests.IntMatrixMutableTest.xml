@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oop.labs.lab2.tests.IntMatrixMutableTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:07:32" hostname="Vovas-MacBook-Pro.local" time="0.019">
+  <properties/>
+  <testcase name="testConstructors" classname="oop.labs.lab2.tests.IntMatrixMutableTest" time="0.001"/>
+  <testcase name="testEyeMethod" classname="oop.labs.lab2.tests.IntMatrixMutableTest" time="0.001"/>
+  <testcase name="testAccessibility" classname="oop.labs.lab2.tests.IntMatrixMutableTest" time="0.014"/>
+  <testcase name="testMutability" classname="oop.labs.lab2.tests.IntMatrixMutableTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
